@@ -13,6 +13,7 @@ This repository contains all the activities assigned during the class for the Li
 5. [Module 4 Day 3 Activity 3:  Service Users](https://git.bootcampcontent.com/boot-camp-consortium-east-coast/CYBER-PT-EAST-OCTOBER-102124/-/tree/main/Module%204%20-Linux%20Sysadmin%20Fundamentals/Module%204%20Day%203/Activity%203%20-%20Service%20Users?ref_type=heads)
 6. [Module 5 Day1 Activity1 part1: Creating and Restoring Backups with tar](https://git.bootcampcontent.com/boot-camp-consortium-east-coast/CYBER-PT-EAST-OCTOBER-102124/-/tree/main/Module%205%20-%20Enhancing%20System%20Functionality/Module%205%20Day%201/Activity%201-%20Creating%20and%20Restoring%20Backups%20with%20tar?ref_type=heads)
 7. [Module 5 Day1 Activity1 part2: Creating incremental backups](https://git.bootcampcontent.com/boot-camp-consortium-east-coast/CYBER-PT-EAST-OCTOBER-102124/-/tree/main/Module%205%20-%20Enhancing%20System%20Functionality/Module%205%20Day%201/Activity%201-%20Creating%20and%20Restoring%20Backups%20with%20tar?ref_type=heads)
+8. [Module 5 Challenge](https://bootcampspot.instructure.com/courses/6679/quizzes/17338?module_item_id=1338050)
 
 ### Module 4 Day 2 Activity 1: Let's Talk to John
 
@@ -64,3 +65,21 @@ Now that we know users have weak passwords, we want to make sure none of them ha
 [View Script](src/main/bash/module5/day1_activity_1_part2.sh)
 
 ---
+
+### Module 5 Challenge
+
+**Objective** This Challenge assignment is designed to solidify and demonstrate your knowledge of the following concepts and tools:
+
+    Creating a tar archive that excludes a directory using the --exclude= command option.
+    Managing backups using cron jobs.
+    Writing bash scripts to create system resource usage reports.
+[View Script](src/main/bash/module5/module5_chalenge.sh)
+
+
+---
+
+
+
+
+
+
