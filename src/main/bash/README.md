@@ -18,6 +18,8 @@ This repository contains all the activities assigned during the class for the Li
 10. [Module 6 Day1 Activity2: Creating Aliases](https://git.bootcampcontent.com/boot-camp-consortium-east-coast/CYBER-PT-EAST-OCTOBER-102124/-/tree/main/Module%206%20-%20Bash%20Scripting%20and%20Programming/Module%206%20Day%201/Activity%202%20-%20Creating%20Aliases?ref_type=heads)
 11. [Module 6 Day1 Activity3: Sysadmin Bash Script](https://git.bootcampcontent.com/boot-camp-consortium-east-coast/CYBER-PT-EAST-OCTOBER-102124/-/tree/main/Module%206%20-%20Bash%20Scripting%20and%20Programming/Module%206%20Day%201/Activity%203%20-%20Sysadmin%20Bash%20Script?ref_type=heads)
 12. [Module 6 Day1 Activity4: Custom Commands](https://git.bootcampcontent.com/boot-camp-consortium-east-coast/CYBER-PT-EAST-OCTOBER-102124/-/tree/main/Module%206%20-%20Bash%20Scripting%20and%20Programming/Module%206%20Day%201/Activity%204%20-%20Custom%20Commands?ref_type=heads)
+13. [Module 6 Day2 AllActivities: Cumulative script for day 2 activities](https://git.bootcampcontent.com/boot-camp-consortium-east-coast/CYBER-PT-EAST-OCTOBER-102124/-/tree/main/Module%206%20-%20Bash%20Scripting%20and%20Programming/Module%206%20Day%202?ref_type=heads)
+14. [Module 6 Scavenger Hunt](https://docs.google.com/document/d/1s1y6hZrRG2uQAPUzYdqf1mHWPCRSQgHFtSqJW_HoSF0/edit?tab=t.0#heading=h.v1zozmd8313h)
 
 
 ### Module 4 Day 2 Activity 1: Let's Talk to John
@@ -110,14 +112,33 @@ this script self generates a secondary file with the commands listed in the inst
 
 ---
 
-
-### Module 6 Day1 Activity4:  Custom Commands
+### Module 6 Day2 All Activities:  Custom Commands
 
 **Objective** In this activity, you will continue to make this script more complex by adding a few commands from the first exercise.   
-[View Script](module6/day1_activity4.sh)
+[View Script](module6/day1_activity4.sh)  
 
 ---
 
+
+### Module 6 Day2 Activity4:  Final Script from activities
+
+**Objective** The activities during day 2 resulted in a cumulative final script. The script must be run as root.  
+[View Script](module6/day2_allactivities.sh)  
+
+---
+
+### Module 6 Scavenger Hunt:  Scripts to run for each user
+
+**Objective** There are 5 scripts that will get the flags scattered in the system, and they must be executed in order.
+Ensure that you log as each of the new users fond in the system in order to get the cumulative flags. Follow the steps
+in the documentation to log in the scavenger system as user student.  
+[View Script](module6/scavenger_hunt_flag1and2.sh) User student   
+[View Script](module6/scavenger_hunt_flag3.sh) User mitnick   
+[View Script](module6/scavenger_hunt_flag4.sh) User babbage    
+[View Script](module6/scavenger_hunt_flag5.sh) User stallman  
+[View Script](module6/scavenger_hunt_flag6.sh)  User sysadmin
+ 
+---
 
 
 
