@@ -1,3 +1,5 @@
+# Activity 1 Creating Domain OUs, Users, and Groups
+
 # Define the domain name
 $domainName = "GOODCORP.NET"
 
