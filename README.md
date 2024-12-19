@@ -4,7 +4,8 @@ This repository contains the exercises given during the cybersecurity class. The
 
 ## Table of Contents
 
-- [Bash Scripts](src/main/bash/README.md): Exercises, scripts, and examples using Bash.
+- [Bash Scripts](src/main/bash/README.md): Exercises, scripts, and examples using bash for the Linux modules.
 - [PowerShell Scripts](src/main/powershell/README.md): Exercises, scripts, and examples using PowerShell.
+- [Batch Scripts](src/main/batch/README.md): Exercises, scripts, and examples using Windows batch.
 
 Each directory contains its own `README.md` file detailing the respective exercises and usage instructions.
