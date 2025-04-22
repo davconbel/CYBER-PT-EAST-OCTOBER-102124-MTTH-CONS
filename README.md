@@ -7,5 +7,7 @@ This repository contains the exercises given during the cybersecurity class. The
 - [Bash Scripts](src/main/bash/README.md): Exercises, scripts, and examples using bash for the Linux modules.
 - [PowerShell Scripts](src/main/powershell/README.md): Exercises, scripts, and examples using PowerShell.
 - [Batch Scripts](src/main/batch/README.md): Exercises, scripts, and examples using Windows batch.
+- [Docker compose](src/main/resources/docker/README.md): Docker compose yml files and supporting resources.
+- [Projects Folder](src/main/projects/README.md): Folder containing projects assigned in the class.
 
 Each directory contains its own `README.md` file detailing the respective exercises and usage instructions.
